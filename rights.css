@@ -1,0 +1,42 @@
+#slide1 {
+    background-image: url('Pictures/rights.png');
+    margin-top: -20px
+}
+
+#slide2 {
+    background-image: url('Pictures/edu2.png');
+    height: 60%;
+}
+
+#slide3 {
+    background-image: url('Pictures/move.png');
+    height: 60%;
+}
+
+#slide4 {
+    background-image: url('Pictures/speech.jpg');
+    height: 75%;
+}
+
+#slide5 {
+    background-image: url('Pictures/vote2.png');
+    height: 60%;
+}
+
+#slide6 {
+    background-image: url('Pictures/info.png');
+    height: 60%;
+}
+
+.content {
+    height: 200px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #2a2523;
+    overflow: hidden;
+}
+
+p {
+    font-family: 'Coustard', serif;
+    color: white;
+}

@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Permanent+Marker|Coustard');
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    display: block;
+    text-align: center;
+    padding-top: 50px;
+}
+
+li {
+    display: inline;
+    padding: 30px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+.title {
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 125px;
+}
+
+.subtitle {
+    color: white;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.parallax {
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.title-box {
+    padding-top: 50px;
+    text-align: center;
+}
