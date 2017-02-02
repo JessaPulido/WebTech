@@ -1,0 +1,29 @@
+.button {
+    color: white;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 25px;
+    padding: 30px;
+    width: 170px;
+    text-align: center;
+    display: inline;
+    margin: 20px;
+    background-color: #713e2e;
+}
+
+.button:hover {
+    color: black;
+    background-color: #b5815a;
+}
+
+#slide1 {
+    background-image: url('Pictures/edu.png');
+    margin-top: -20px
+}
+
+#slide2 {
+    background-image: url('Pictures/vote3.png');
+}
+
+#slide3 {
+    background-image: url('Pictures/info.png');
+}
