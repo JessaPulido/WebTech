@@ -22,14 +22,22 @@ a {
     text-decoration: none;
     font-family: 'Gloria Hallelujah', cursive;
 }
+h1{
+	margin-top:3px;
+}
 
 
 .title {
     color: white;
     font-family: 'Permanent Marker', cursive;
-    font-size: 125px;
+    font-size: 100px;
 }
-
+.title1 {
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 100px;
+	margin-top: 120px;
+}
 .subtitle {
     color: white;
     font-family: 'Gloria Hallelujah', cursive;
@@ -48,4 +56,12 @@ a {
 .title-box {
     padding-top: 50px;
     text-align: center;
+}
+ 
+.box p {
+	font-family: Century Gothic;
+	font-size: 16px;
+	color: white;
+	font-weight: bold;
+	
 }
