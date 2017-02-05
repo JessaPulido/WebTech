@@ -65,3 +65,16 @@ h1{
 	font-weight: bold;
 	
 }
+
+footer {
+    text-align: center;
+    background-color: #2d2d2d;
+    overflow: hidden;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+
+footer h1 {
+    color: white;
+    font-family: 'coustard', cursive;
+}
