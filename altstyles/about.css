@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Spinnaker|Andika|Inder');
+
+
+.title-box {
+    color: black;
+    border-style:groove;
+    background-color:rgba(128,128,128,0.6);
+    margin: 30px;
+	
+}
+
+.title-box h1 {
+    font-size: 35px;
+    font-family: 'inder', sans-serif;
+	color: #b5815a;
+	font-size: 90px;
+    display:block;
+    text-align: center;
+    margin:10px;
+	text-shadow: 2px 2px black;
+}
+
+h2 {	
+	font-family: 'inder', sans-serif;
+    color: white; 
+    font-size: 50px;
+    text-align:center;
+}
+
+#authors ul{
+	text-align:center;
+	margin:0 10px 0;
+}
+
+#authors h2 {
+    text-align: center;
+	margin-top: 10px;
+	font-family: 'inder', sans-serif;
+	color: white;
+	text-shadow: 3px 3px black;
+}
+
+#authors li{
+    text-align: center;
+}
+
+
+#authors ul{
+	font-family: 'inder', sans-serif;
+	font-size: 20px;
+}
+
+#authors li {
+    margin-left: 10px;
+	color:black;
+}
+
+
+#pics{
+	text-align:center;
+	margin-left: 45px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
