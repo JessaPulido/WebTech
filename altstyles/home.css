@@ -1,0 +1,37 @@
+.title-box {
+    text-align: center;
+}
+
+#slide1 h1 {
+    font-size: 100px;
+    font-family: 'spinnaker', sans-serif;
+    color: #b5815a;
+}
+
+#slide2 {
+    margin-top: -60px;
+    font-family: 'Andika', sans-serif;
+    color: white;
+}
+
+#slide3 {
+    margin-top: -20px;
+    font-family: 'Andika', sans-serif;
+    color: white;
+}
+
+.button {
+    color: white;
+    font-family: 'inder', sans-serif;
+    padding: 25px;
+    width: 170px;
+    text-align: center;
+    display: inline-block;
+    background-color: #2d2d2d;
+    margin-top: 5%;
+}
+
+.button:hover {
+    color: black;
+    background-color: #b5815a;
+}
