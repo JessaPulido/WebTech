@@ -84,3 +84,24 @@ background-image: url('Pictures/rights.png');
 .title {
     
 }
+
+.title-box {
+    background-image: url('Pictures/vote3.png');
+    padding-top: 50px;
+    padding-bottom: 80px;
+    padding-right: 80px;
+    left: 20px;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.title-box1 {
+    
+    padding-top: 0px;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+    text-shadow: 2px 2px black;
+}
