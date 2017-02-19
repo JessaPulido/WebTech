@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Permanent+Marker|Coustard');
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    display: block;
+    text-align: center;
+    padding-top: 50px;
+}
+
+li {
+    display: inline;
+    padding: 30px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+a:hover {
+    color: chocolate;
+}
+
+h1{
+	margin-top:3px;
+}
+
+
+.title {
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    
+}
+.title1 {
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 100px;
+	margin-top: 120px;
+}
+.subtitle {
+    color: white;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.parallax {
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.title-box {
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+ 
+.box p {
+	font-family: Verdana;
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	
+}
+.box1 p{
+    font-family: Verdana;
+	font-size: 15px;
+	color: white;
+	font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    background-color: #2d2d2d;
+    overflow: hidden;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+
+footer h1 {
+    color: white;
+    font-family: 'coustard', cursive;
+}
+
+
